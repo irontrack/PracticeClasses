@@ -43,7 +43,7 @@ int main()   // main function is reserved for user interaction.
     cout<<"hello! this program will take any keyoard symbol and print it out"<<endl;
     cout<<"in a rectangle with dimensions of your specification"<<endl<<endl<<endl; 
     system("pause");
-    while(running)
+    while(running)         // program loops until the user is done making sqaures
           {
                   
                   system("cls");
